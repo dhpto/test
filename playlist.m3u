@@ -1,4 +1,97 @@
 #EXTM3U
+# Last Updated: 2026-07-23 12:00:51 UTC
+
+#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
+
+#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - UNITE8 HINDI - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Zimbabwe vs India - UNITE8 HINDI - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://vsd262.okcdn.ru/cmaf/18148930357767/sig/eYwCA6mY9NA/expires/1784886855882/srcIp/66.78.59.15/urls/178.237.29.13/clientType/36/srcAg/CHROME/mid/15665985898247/get/hls_15665985898247.El4GwuQfJW0.m3u8
+
+#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - ALT" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-origin=https://amazon.com
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
+
+#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - LQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - LQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-origin=https://amazon.com
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - HIN" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - HIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://in-mc-flive.fancode.com/mumbai/143351_hindi_dash_1596_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - ENG" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - ENG
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://in-mc-flive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - BD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - BD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bd-mc-pdlive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - UNITE8 ENG HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Zimbabwe vs India - UNITE8 ENG HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://59.103.38.46:8000/play/a126/index.m3u8
+
+#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - UNITE8 HIN HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Zimbabwe vs India - UNITE8 HIN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://59.103.38.46:8000/play/a125/index.m3u8
+
+#EXTINF:-1 tvg-id="10776" tvg-name="[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - WILLOW - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f567bab672bd15dcbea0c8f29365ca1:9101126d4d41bca6ecc906e47d8fd143
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd
+
+#EXTINF:-1 tvg-id="10776" tvg-name="[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - WILLOW - ALT" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - WILLOW - ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f567bab672bd15dcbea0c8f29365ca1:9101126d4d41bca6ecc906e47d8fd143
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd
+
+#EXTINF:-1 tvg-id="10776" tvg-name="[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - FANCODE - IN" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - FANCODE - IN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bd-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="10793" tvg-name="[🔴 LIVE NOW] Netherlands vs Nepal - ICC TV - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Netherlands vs Nepal - ICC TV - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784825128~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=667d560ae33471b8b1896f1a4a685dc1f39586966624cc87fe905b1315de7658/manifest.mpd
+
+#EXTINF:-1 tvg-id="10793" tvg-name="[🔴 LIVE NOW] Netherlands vs Nepal - FANCODE - IN" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Netherlands vs Nepal - FANCODE - IN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="10793" tvg-name="[🔴 LIVE NOW] Netherlands vs Nepal - FANCODE - BD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Netherlands vs Nepal - FANCODE - BD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - FANCODE - AQ" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -241,62 +334,6 @@ http://193.47.62.41/hls/GBBBQQ.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edgestream2.pro/hls/zeuryuegn48.m3u8
 
-#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
-
-#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - UNITE8 HINDI - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Zimbabwe vs India - UNITE8 HINDI - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vsd262.okcdn.ru/cmaf/18148930357767/sig/eYwCA6mY9NA/expires/1784886855882/srcIp/66.78.59.15/urls/178.237.29.13/clientType/36/srcAg/CHROME/mid/15665985898247/get/hls_15665985898247.El4GwuQfJW0.m3u8
-
-#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - ALT" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - ALT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-origin=https://amazon.com
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
-
-#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - LQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - LQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-origin=https://amazon.com
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - HIN" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - HIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://in-mc-flive.fancode.com/mumbai/143351_hindi_dash_1596_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - ENG" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - ENG
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://in-mc-flive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - BD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Zimbabwe vs India - FANCODE - BD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://bd-mc-pdlive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - UNITE8 ENG HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Zimbabwe vs India - UNITE8 ENG HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://59.103.38.46:8000/play/a126/index.m3u8
-
-#EXTINF:-1 tvg-id="10714" tvg-name="[🔴 LIVE NOW] Zimbabwe vs India - UNITE8 HIN HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Zimbabwe vs India - UNITE8 HIN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://59.103.38.46:8000/play/a125/index.m3u8
-
 #EXTINF:-1 tvg-id="10730" tvg-name="[⚪ Upcoming] Sri Lanka Women vs Pakistan Women - WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Sri Lanka Women vs Pakistan Women - WILLOW - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-origin=https://amazon.com
@@ -331,71 +368,52 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[🟡 Starting Soon] The Hundred Women - WILLOW - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[🟡 Starting Soon] The Hundred Women - WILLOW - AQ
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - WILLOW - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - WILLOW - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[🟡 Starting Soon] The Hundred Women - BBC SPORTS - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[🟡 Starting Soon] The Hundred Women - BBC SPORTS - AQ
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - BBC SPORTS - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - BBC SPORTS - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[🟡 Starting Soon] The Hundred Women - SKY CRICKET - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[🟡 Starting Soon] The Hundred Women - SKY CRICKET - AQ
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - SKY CRICKET - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - SKY CRICKET - AQ
 #EXTVLCOPT:http-user-agent=Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[🟡 Starting Soon] The Hundred Women - WILLOW - ALT" tvg-logo="null" group-title="🟡 Starting Soon",[🟡 Starting Soon] The Hundred Women - WILLOW - ALT
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - WILLOW - ALT" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - WILLOW - ALT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[🟡 Starting Soon] The Hundred Women - TAPMAD - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[🟡 Starting Soon] The Hundred Women - TAPMAD - AQ
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - TAPMAD - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - TAPMAD - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tapmad.com
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[🟡 Starting Soon] The Hundred Women - SKY SPORT NZ" tvg-logo="null" group-title="🟡 Starting Soon",[🟡 Starting Soon] The Hundred Women - SKY SPORT NZ
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - SKY SPORT NZ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - SKY SPORT NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[🟡 Starting Soon] The Hundred Women - SonyLiv" tvg-logo="null" group-title="🟡 Starting Soon",[🟡 Starting Soon] The Hundred Women - SonyLiv
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - SonyLiv" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - SonyLiv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-V3/master.m3u8?hdnea=exp=1784756002~acl=/*~id=01d7cb8efe80bd31ab0c0ae6a6d3175b-1784712737570-180820105164192310~hmac=aabe24ba3b5f5ca6a2e1a7eb7337660c8811f71ad4562addd0f9ffdf1fbf3ab9
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[🟡 Starting Soon] The Hundred Women - LOW SERVER" tvg-logo="null" group-title="🟡 Starting Soon",[🟡 Starting Soon] The Hundred Women - LOW SERVER
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - LOW SERVER" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - LOW SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-id="10776" tvg-name="[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - WILLOW - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f567bab672bd15dcbea0c8f29365ca1:9101126d4d41bca6ecc906e47d8fd143
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd
-
-#EXTINF:-1 tvg-id="10776" tvg-name="[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - WILLOW - ALT" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - WILLOW - ALT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f567bab672bd15dcbea0c8f29365ca1:9101126d4d41bca6ecc906e47d8fd143
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd
-
-#EXTINF:-1 tvg-id="10776" tvg-name="[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - FANCODE - IN" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - FANCODE - IN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://bd-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="10777" tvg-name="[🟡 Starting Soon] Galle Gallants vs Jaffna Kings - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🟡 Starting Soon",[🟡 Starting Soon] Galle Gallants vs Jaffna Kings - 
+#EXTINF:-1 tvg-id="10777" tvg-name="[ Starting Soon] Galle Gallants vs Jaffna Kings - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Galle Gallants vs Jaffna Kings - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -405,7 +423,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10780" tvg-name="[🟡 Starting Soon] Global Super League - " tvg-logo="null" group-title="🟡 Starting Soon",[🟡 Starting Soon] Global Super League - 
+#EXTINF:-1 tvg-id="10780" tvg-name="[ Starting Soon] Global Super League - " tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] Global Super League - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 ok
@@ -444,20 +462,3 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="10793" tvg-name="[🔴 LIVE NOW] Netherlands vs Nepal - ICC TV - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Netherlands vs Nepal - ICC TV - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784825128~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=667d560ae33471b8b1896f1a4a685dc1f39586966624cc87fe905b1315de7658/manifest.mpd
-
-#EXTINF:-1 tvg-id="10793" tvg-name="[🔴 LIVE NOW] Netherlands vs Nepal - FANCODE - IN" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Netherlands vs Nepal - FANCODE - IN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="10793" tvg-name="[🔴 LIVE NOW] Netherlands vs Nepal - FANCODE - BD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Netherlands vs Nepal - FANCODE - BD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
