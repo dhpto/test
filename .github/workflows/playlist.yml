@@ -1,4 +1,4 @@
-name: accomodation
+name: accommodation
 
 on:
   schedule:
@@ -38,6 +38,6 @@ jobs:
           # Unconditionally add, commit, and push. 
           # The '|| true' ensures the workflow doesn't fail if Git says "nothing to commit"
           git add playlist.m3u
-          git commit -m "c> $(date -u +'%Y-%m-%d %H:%M:%S UTC')" || true
+          git commit -m "c>" || true
           git push
           echo "✅ playlist.m3u update process completed!"
