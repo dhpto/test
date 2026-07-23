@@ -6,7 +6,7 @@ on:
   workflow_dispatch: 
 
 jobs:
-  generate-m3u:
+  accommodating:
     runs-on: ubuntu-latest
     permissions:
       contents: write
