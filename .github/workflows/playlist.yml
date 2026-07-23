@@ -1,0 +1,45 @@
+name: Auto-Update Sports M3U (Secure)
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Runs every 2 hours to catch new live events
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+jobs:
+  generate-sports-m3u:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Execute Secure Wrapper
+        env:
+          SECURE_DECRYPT_CODE: ${{ secrets.SECURE_DECRYPT_CODE }}
+        run: python run.py
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if git diff --quiet playlist.m3u; then
+            echo "No changes to playlist.m3u"
+          else
+            git add playlist.m3u
+            git commit -m "chore: auto-update playlist.m3u [skip ci]"
+            git push
+            echo "✅ playlist.m3u updated and pushed!"
+          fi
