@@ -1,252 +1,252 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - FANCODE - AQ" tvg-logo="nulln" group-title="Live Events",Formula 1 - FANCODE - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - FANCODE - AQ" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - TSN SPORTS - AQ" tvg-logo="nulln" group-title="Live Events",Formula 1 - TSN SPORTS - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - TSN SPORTS - AQ" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - TSN SPORTS - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - APPLE TV+ - AQ" tvg-logo="nulln" group-title="Live Events",Formula 1 - APPLE TV+ - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - APPLE TV+ - AQ" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - APPLE TV+ - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dc12b57addecba1a491e81edcbaad57:9fcf7fef82dcc6399cafdb6a96809310
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lnnce28adq/out/v1/47847083b5fc4ccbb01871ee331ad8f7/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - SKY via APPLE TV" tvg-logo="nulln" group-title="Live Events",Formula 1 - SKY via APPLE TV
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - SKY via APPLE TV" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - SKY via APPLE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51040efb59bf199bf09bcd79e4af435a:636de0aecb318b012f47eed0845f96df
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zl03cuvpb2/out/v1/7c64c4d71fae4ba7b80952ad71ed1e36/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - TSN PIT CHANNEL" tvg-logo="nulln" group-title="Live Events",Formula 1 - TSN PIT CHANNEL
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - TSN PIT CHANNEL" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - TSN PIT CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=441bcbf22ad9ef1976ed7f52438896d0:40613b76138697041dac45cafe347bdc
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9hjkp3lpev/out/v1/1d92267fc4644b75934bb9be30f77d94/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - DRIVER TRACKER" tvg-logo="nulln" group-title="Live Events",Formula 1 - DRIVER TRACKER
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - DRIVER TRACKER" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - DRIVER TRACKER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a5b16183665abbcc90302a0a62c402fc:65eea0ca3c605b8d35b3780ed58f551d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qoagww87su/out/v1/4f52197b455644b78f9aa2801b418106/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - APPLE TV - 4K" tvg-logo="nulln" group-title="Live Events",Formula 1 - APPLE TV - 4K
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - APPLE TV - 4K" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - APPLE TV - 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb1e6c51646986a652498a57b458d1d2:1b278aeea7b8978fa574ad0eb52758a2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pplmyagyhu/out/v1/6695d8753e6c4e318a0bc5c4a18de9b9/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - CRICFy LIVE " tvg-logo="nulln" group-title="Live Events",Formula 1 - CRICFy LIVE 
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - CRICFy LIVE " tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - CRICFy LIVE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://chatgpt.hereisman.net/playlist/53414/load-playlist
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - APPLE TV - AQ" tvg-logo="nulln" group-title="Live Events",Formula 1 - APPLE TV - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - APPLE TV - AQ" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - APPLE TV - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/ac2635e55062b01925b85e38e422c5ed/index.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - SPORTSCAST - AQ" tvg-logo="nulln" group-title="Live Events",Formula 1 - SPORTSCAST - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - SPORTSCAST - AQ" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - SPORTSCAST - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34aa2c48-06de-4288-9af3-91f2622da979/master.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - FOX SPORTS - AQ" tvg-logo="nulln" group-title="Live Events",Formula 1 - FOX SPORTS - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - FOX SPORTS - AQ" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - FOX SPORTS - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/a457e04618ba530dae3232c3f67233a6/index.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - SKY SPORTS F1" tvg-logo="nulln" group-title="Live Events",Formula 1 - SKY SPORTS F1
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - SKY SPORTS F1" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/470e8fd3ddfe844ace4ab0211e53e51b/index.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - DAZN ESPANOL - AQ" tvg-logo="nulln" group-title="Live Events",Formula 1 - DAZN ESPANOL - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - DAZN ESPANOL - AQ" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - DAZN ESPANOL - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/c9bf8a242f762595afad533557e538b7/index.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - SKY GERMAN - AQ" tvg-logo="nulln" group-title="Live Events",Formula 1 - SKY GERMAN - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - SKY GERMAN - AQ" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - SKY GERMAN - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/d306bca69cb626f4e54baaac4e8005dd/index.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - SKY SPORTS ITALY" tvg-logo="nulln" group-title="Live Events",Formula 1 - SKY SPORTS ITALY
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - SKY SPORTS ITALY" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - SKY SPORTS ITALY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/8c121b7272256bf76f49e5ef81b42a41/index.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - RUSSIA FEED" tvg-logo="nulln" group-title="Live Events",Formula 1 - RUSSIA FEED
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - RUSSIA FEED" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - RUSSIA FEED
 #EXTVLCOPT:http-user-agent=Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bl.rutube.ru/livestream/f0ddd7af7d20cad89139a493c62e5781/index.m3u8?s=vhffpbXtZKo9a0xXyYgc6g&e=1784551970&scheme=https
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - LOW SERVER" tvg-logo="nulln" group-title="Live Events",Formula 1 - LOW SERVER
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - LOW SERVER" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - LOW SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://193.47.62.49/hls/RTRTRT.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - ELEVEN SPORTS" tvg-logo="nulln" group-title="Live Events",Formula 1 - ELEVEN SPORTS
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - ELEVEN SPORTS" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - ELEVEN SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - Tipik FRANCE - AQ" tvg-logo="nulln" group-title="Live Events",Formula 1 - Tipik FRANCE - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - Tipik FRANCE - AQ" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - Tipik FRANCE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed52a165d7e947a1b5d6358eb05fbceb:3569ad9af6dc5a12bb7d5f69cca95345
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/23b52321.isml/.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="Formula 1 - SKY SPORTS - AQ" tvg-logo="nulln" group-title="Live Events",Formula 1 - SKY SPORTS - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - SKY SPORTS - AQ" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - SKY SPORTS - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36 OPR/97.0.0.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
 https://dice-live-oc.akamaized.net/hdntl=exp=1784350679~acl=*dash%2flive%2f2093757%2f219028-322691%2f*!*dash%2flive%2f2093757-b%2f219028-322691-b%2f*!%2fv1%2fdashsegment%2f*~id=4ff44426-fabf-4f41-ba17-eda2146d0977~data=hdntl,dWlkPWY3RVJaWnwxNjg2YzEwNC04MTc3LTQ1OGItOWEyYi00YjA2MTE1MmI0MDEmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODQzNTA3MDcmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=ed93423a4fb6b9fe39117bce7ae6b26e1aeb13d6d609b4b47b15516119e52f16/dash/live/2093757/219028-322691/manifest-d.mpd
 
-#EXTINF:-1 tvg-id="866" tvg-name="Motogp - FANCODE - AQ" tvg-logo="null" group-title="Live Events",Motogp - FANCODE - AQ
+#EXTINF:-1 tvg-id="866" tvg-name="[⚪ Upcoming] Motogp - FANCODE - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Motogp - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
 
-#EXTINF:-1 tvg-id="866" tvg-name="Motogp - SPOTV - AQ" tvg-logo="null" group-title="Live Events",Motogp - SPOTV - AQ
+#EXTINF:-1 tvg-id="866" tvg-name="[⚪ Upcoming] Motogp - SPOTV - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Motogp - SPOTV - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="866" tvg-name="Motogp - MotoGP - AQ" tvg-logo="null" group-title="Live Events",Motogp - MotoGP - AQ
+#EXTINF:-1 tvg-id="866" tvg-name="[⚪ Upcoming] Motogp - MotoGP - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Motogp - MotoGP - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 tvg-id="866" tvg-name="Motogp - AUVIO SPORTS - AQ" tvg-logo="null" group-title="Live Events",Motogp - AUVIO SPORTS - AQ
+#EXTINF:-1 tvg-id="866" tvg-name="[⚪ Upcoming] Motogp - AUVIO SPORTS - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Motogp - AUVIO SPORTS - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e00f3c011f634ec5880c50761d302fcd:ba78b08b3f41ba8fd060cc8492983cae
 https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/f4d8a9c3.isml/.mpd?dvr_window_length=7200
 
-#EXTINF:-1 tvg-id="866" tvg-name="Motogp - NOW SPORTS - AQ" tvg-logo="null" group-title="Live Events",Motogp - NOW SPORTS - AQ
+#EXTINF:-1 tvg-id="866" tvg-name="[⚪ Upcoming] Motogp - NOW SPORTS - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Motogp - NOW SPORTS - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/9f7de4da3380a8bdd485461bfe8b3aa4/index.m3u8
 
-#EXTINF:-1 tvg-id="866" tvg-name="Motogp - TNT SPORTS - AQ" tvg-logo="null" group-title="Live Events",Motogp - TNT SPORTS - AQ
+#EXTINF:-1 tvg-id="866" tvg-name="[⚪ Upcoming] Motogp - TNT SPORTS - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Motogp - TNT SPORTS - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/e7095fa5d96b97acc6e111123eb62aab/index.m3u8
 
-#EXTINF:-1 tvg-id="866" tvg-name="Motogp - SKY SPORTS IT" tvg-logo="null" group-title="Live Events",Motogp - SKY SPORTS IT
+#EXTINF:-1 tvg-id="866" tvg-name="[⚪ Upcoming] Motogp - SKY SPORTS IT" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Motogp - SKY SPORTS IT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/bf9cd03d47d1a459856e25bc8349de8c/index.m3u8
 
-#EXTINF:-1 tvg-id="866" tvg-name="Motogp - CRICFy LIVE" tvg-logo="null" group-title="Live Events",Motogp - CRICFy LIVE
+#EXTINF:-1 tvg-id="866" tvg-name="[⚪ Upcoming] Motogp - CRICFy LIVE" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Motogp - CRICFy LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edge2caster.pro/hls/oeenzgezcz47.m3u8
 
-#EXTINF:-1 tvg-id="866" tvg-name="Motogp - DAZN SPORTS HD" tvg-logo="null" group-title="Live Events",Motogp - DAZN SPORTS HD
+#EXTINF:-1 tvg-id="866" tvg-name="[⚪ Upcoming] Motogp - DAZN SPORTS HD" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Motogp - DAZN SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://instream.click/
 #EXTVLCOPT:http-origin=https://instream.click
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="866" tvg-name="Motogp - CANAL+ HD" tvg-logo="null" group-title="Live Events",Motogp - CANAL+ HD
+#EXTINF:-1 tvg-id="866" tvg-name="[⚪ Upcoming] Motogp - CANAL+ HD" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Motogp - CANAL+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://instream.click/
 #EXTVLCOPT:http-origin=https://instream.click
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="1089" tvg-name="Smack Down - WWE LIVE HD" tvg-logo="null" group-title="Live Events",Smack Down - WWE LIVE HD
+#EXTINF:-1 tvg-id="1089" tvg-name="[⚪ Upcoming] Smack Down - WWE LIVE HD" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Smack Down - WWE LIVE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://chatgpt.hereisman.net/playlist/52583/load-playlist
 
-#EXTINF:-1 tvg-id="1089" tvg-name="Smack Down - SD SERVER" tvg-logo="null" group-title="Live Events",Smack Down - SD SERVER
+#EXTINF:-1 tvg-id="1089" tvg-name="[⚪ Upcoming] Smack Down - SD SERVER" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Smack Down - SD SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://193.47.62.44/hls/ZZZZZ.m3u8
 
-#EXTINF:-1 tvg-id="1089" tvg-name="Smack Down - ALT SERVER" tvg-logo="null" group-title="Live Events",Smack Down - ALT SERVER
+#EXTINF:-1 tvg-id="1089" tvg-name="[⚪ Upcoming] Smack Down - ALT SERVER" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Smack Down - ALT SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 tvg-id="1090" tvg-name="WWE Raw - CRICFy LIVE" tvg-logo="null" group-title="Live Events",WWE Raw - CRICFy LIVE
+#EXTINF:-1 tvg-id="1090" tvg-name="[⚪ Upcoming] WWE Raw - CRICFy LIVE" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] WWE Raw - CRICFy LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://chatgpt.hereisman.net/playlist/53006/load-playlist
 
-#EXTINF:-1 tvg-id="1090" tvg-name="WWE Raw - HD SERVER" tvg-logo="null" group-title="Live Events",WWE Raw - HD SERVER
+#EXTINF:-1 tvg-id="1090" tvg-name="[⚪ Upcoming] WWE Raw - HD SERVER" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] WWE Raw - HD SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 tvg-id="1090" tvg-name="WWE Raw - SD SERVER" tvg-logo="null" group-title="Live Events",WWE Raw - SD SERVER
+#EXTINF:-1 tvg-id="1090" tvg-name="[⚪ Upcoming] WWE Raw - SD SERVER" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] WWE Raw - SD SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://193.47.62.41/hls/GBBBQQ.m3u8
 
-#EXTINF:-1 tvg-id="1090" tvg-name="WWE Raw - HD SERVER" tvg-logo="null" group-title="Live Events",WWE Raw - HD SERVER
+#EXTINF:-1 tvg-id="1090" tvg-name="[⚪ Upcoming] WWE Raw - HD SERVER" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] WWE Raw - HD SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edgestream2.pro/hls/zeuryuegn48.m3u8
 
-#EXTINF:-1 tvg-id="10714" tvg-name="Zimbabwe vs India - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Live Events",Zimbabwe vs India - 
+#EXTINF:-1 tvg-id="10714" tvg-name="[🟡 Starting Soon] Zimbabwe vs India - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🟡 Starting Soon",[🟡 Starting Soon] Zimbabwe vs India - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10730" tvg-name="Sri Lanka Women vs Pakistan Women - WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Live Events",Sri Lanka Women vs Pakistan Women - WILLOW - AQ
+#EXTINF:-1 tvg-id="10730" tvg-name="[🔴 LIVE NOW] Sri Lanka Women vs Pakistan Women - WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Sri Lanka Women vs Pakistan Women - WILLOW - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-origin=https://amazon.com
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -254,159 +254,159 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="10730" tvg-name="Sri Lanka Women vs Pakistan Women - TAPMAD - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Live Events",Sri Lanka Women vs Pakistan Women - TAPMAD - AQ
+#EXTINF:-1 tvg-id="10730" tvg-name="[🔴 LIVE NOW] Sri Lanka Women vs Pakistan Women - TAPMAD - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Sri Lanka Women vs Pakistan Women - TAPMAD - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tapmad.com
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
-#EXTINF:-1 tvg-id="10730" tvg-name="Sri Lanka Women vs Pakistan Women - WILLOW - LQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Live Events",Sri Lanka Women vs Pakistan Women - WILLOW - LQ
+#EXTINF:-1 tvg-id="10730" tvg-name="[🔴 LIVE NOW] Sri Lanka Women vs Pakistan Women - WILLOW - LQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Sri Lanka Women vs Pakistan Women - WILLOW - LQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-id="10730" tvg-name="Sri Lanka Women vs Pakistan Women - FANCODE - IN" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Live Events",Sri Lanka Women vs Pakistan Women - FANCODE - IN
+#EXTINF:-1 tvg-id="10730" tvg-name="[🔴 LIVE NOW] Sri Lanka Women vs Pakistan Women - FANCODE - IN" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Sri Lanka Women vs Pakistan Women - FANCODE - IN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://in-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="10730" tvg-name="Sri Lanka Women vs Pakistan Women - FANCODE - BD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Live Events",Sri Lanka Women vs Pakistan Women - FANCODE - BD
+#EXTINF:-1 tvg-id="10730" tvg-name="[🔴 LIVE NOW] Sri Lanka Women vs Pakistan Women - FANCODE - BD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Sri Lanka Women vs Pakistan Women - FANCODE - BD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="10731" tvg-name="West Indies vs Pakistan - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Live Events",West Indies vs Pakistan - 
+#EXTINF:-1 tvg-id="10731" tvg-name="[⚪ Upcoming] West Indies vs Pakistan - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] West Indies vs Pakistan - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10732" tvg-name="The Hundred Women - WILLOW - AQ" tvg-logo="null" group-title="Live Events",The Hundred Women - WILLOW - AQ
+#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - WILLOW - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - WILLOW - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd
 
-#EXTINF:-1 tvg-id="10732" tvg-name="The Hundred Women - BBC SPORTS - AQ" tvg-logo="null" group-title="Live Events",The Hundred Women - BBC SPORTS - AQ
+#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - BBC SPORTS - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - BBC SPORTS - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8
 
-#EXTINF:-1 tvg-id="10732" tvg-name="The Hundred Women - SKY CRICKET - AQ" tvg-logo="null" group-title="Live Events",The Hundred Women - SKY CRICKET - AQ
+#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - SKY CRICKET - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - SKY CRICKET - AQ
 #EXTVLCOPT:http-user-agent=Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 
-#EXTINF:-1 tvg-id="10732" tvg-name="The Hundred Women - WILLOW - ALT" tvg-logo="null" group-title="Live Events",The Hundred Women - WILLOW - ALT
+#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - WILLOW - ALT" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - WILLOW - ALT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd
 
-#EXTINF:-1 tvg-id="10732" tvg-name="The Hundred Women - TAPMAD - AQ" tvg-logo="null" group-title="Live Events",The Hundred Women - TAPMAD - AQ
+#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - TAPMAD - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - TAPMAD - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tapmad.com
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
-#EXTINF:-1 tvg-id="10732" tvg-name="The Hundred Women - SKY SPORT NZ" tvg-logo="null" group-title="Live Events",The Hundred Women - SKY SPORT NZ
+#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - SKY SPORT NZ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - SKY SPORT NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 
-#EXTINF:-1 tvg-id="10732" tvg-name="The Hundred Women - SonyLiv" tvg-logo="null" group-title="Live Events",The Hundred Women - SonyLiv
+#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - SonyLiv" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - SonyLiv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-V3/master.m3u8?hdnea=exp=1784756002~acl=/*~id=01d7cb8efe80bd31ab0c0ae6a6d3175b-1784712737570-180820105164192310~hmac=aabe24ba3b5f5ca6a2e1a7eb7337660c8811f71ad4562addd0f9ffdf1fbf3ab9
 
-#EXTINF:-1 tvg-id="10732" tvg-name="The Hundred Women - LOW SERVER" tvg-logo="null" group-title="Live Events",The Hundred Women - LOW SERVER
+#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - LOW SERVER" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - LOW SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-id="10776" tvg-name="Kandy Royals vs Colombo Kaps - WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Live Events",Kandy Royals vs Colombo Kaps - WILLOW - AQ
+#EXTINF:-1 tvg-id="10776" tvg-name="[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - WILLOW - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f567bab672bd15dcbea0c8f29365ca1:9101126d4d41bca6ecc906e47d8fd143
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd
 
-#EXTINF:-1 tvg-id="10776" tvg-name="Kandy Royals vs Colombo Kaps - WILLOW - ALT" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Live Events",Kandy Royals vs Colombo Kaps - WILLOW - ALT
+#EXTINF:-1 tvg-id="10776" tvg-name="[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - WILLOW - ALT" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - WILLOW - ALT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f567bab672bd15dcbea0c8f29365ca1:9101126d4d41bca6ecc906e47d8fd143
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd
 
-#EXTINF:-1 tvg-id="10776" tvg-name="Kandy Royals vs Colombo Kaps - FANCODE - IN" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Live Events",Kandy Royals vs Colombo Kaps - FANCODE - IN
+#EXTINF:-1 tvg-id="10776" tvg-name="[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - FANCODE - IN" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Kandy Royals vs Colombo Kaps - FANCODE - IN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bd-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="10777" tvg-name="Galle Gallants vs Jaffna Kings - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Live Events",Galle Gallants vs Jaffna Kings - 
+#EXTINF:-1 tvg-id="10777" tvg-name="[⚪ Upcoming] Galle Gallants vs Jaffna Kings - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Galle Gallants vs Jaffna Kings - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10778" tvg-name="London Spirit vs Manchester Super Giants - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Live Events",London Spirit vs Manchester Super Giants - 
+#EXTINF:-1 tvg-id="10778" tvg-name="[⚪ Upcoming] London Spirit vs Manchester Super Giants - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] London Spirit vs Manchester Super Giants - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10780" tvg-name="Global Super League - " tvg-logo="null" group-title="Live Events",Global Super League - 
+#EXTINF:-1 tvg-id="10780" tvg-name="[⚪ Upcoming] Global Super League - " tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Global Super League - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 ok
 
-#EXTINF:-1 tvg-id="10785" tvg-name="Botafogo vs Vitoria - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Live Events",Botafogo vs Vitoria - 
+#EXTINF:-1 tvg-id="10785" tvg-name="[⚪ Upcoming] Botafogo vs Vitoria - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Botafogo vs Vitoria - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10786" tvg-name="Corinthians vs Remo - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Live Events",Corinthians vs Remo - 
+#EXTINF:-1 tvg-id="10786" tvg-name="[⚪ Upcoming] Corinthians vs Remo - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Corinthians vs Remo - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10787" tvg-name="Cleveland Guardians vs Minnesota Twins - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Live Events",Cleveland Guardians vs Minnesota Twins - 
+#EXTINF:-1 tvg-id="10787" tvg-name="[⚪ Upcoming] Cleveland Guardians vs Minnesota Twins - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Cleveland Guardians vs Minnesota Twins - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10788" tvg-name="Toronto Blue Jays vs Tampa Bay Rays - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Live Events",Toronto Blue Jays vs Tampa Bay Rays - 
+#EXTINF:-1 tvg-id="10788" tvg-name="[⚪ Upcoming] Toronto Blue Jays vs Tampa Bay Rays - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Toronto Blue Jays vs Tampa Bay Rays - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10790" tvg-name="Detroit Tigers vs Kansas City Royals - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Live Events",Detroit Tigers vs Kansas City Royals - 
+#EXTINF:-1 tvg-id="10790" tvg-name="[⚪ Upcoming] Detroit Tigers vs Kansas City Royals - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Detroit Tigers vs Kansas City Royals - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10791" tvg-name="Atlanta Braves vs San Diego Padres - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Live Events",Atlanta Braves vs San Diego Padres - 
+#EXTINF:-1 tvg-id="10791" tvg-name="[⚪ Upcoming] Atlanta Braves vs San Diego Padres - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Atlanta Braves vs San Diego Padres - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10792" tvg-name="St. Louis Cardinals vs Arizona Diamondbacks - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Live Events",St. Louis Cardinals vs Arizona Diamondbacks - 
+#EXTINF:-1 tvg-id="10792" tvg-name="[⚪ Upcoming] St. Louis Cardinals vs Arizona Diamondbacks - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] St. Louis Cardinals vs Arizona Diamondbacks - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10793" tvg-name="Netherlands vs Nepal - ICC TV - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Live Events",Netherlands vs Nepal - ICC TV - AQ
+#EXTINF:-1 tvg-id="10793" tvg-name="[🔴 LIVE NOW] Netherlands vs Nepal - ICC TV - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Netherlands vs Nepal - ICC TV - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784825128~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=667d560ae33471b8b1896f1a4a685dc1f39586966624cc87fe905b1315de7658/manifest.mpd
 
-#EXTINF:-1 tvg-id="10793" tvg-name="Netherlands vs Nepal - FANCODE - IN" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Live Events",Netherlands vs Nepal - FANCODE - IN
+#EXTINF:-1 tvg-id="10793" tvg-name="[🔴 LIVE NOW] Netherlands vs Nepal - FANCODE - IN" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Netherlands vs Nepal - FANCODE - IN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="10793" tvg-name="Netherlands vs Nepal - FANCODE - BD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Live Events",Netherlands vs Nepal - FANCODE - BD
+#EXTINF:-1 tvg-id="10793" tvg-name="[🔴 LIVE NOW] Netherlands vs Nepal - FANCODE - BD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="🔴 Live Now",[🔴 LIVE NOW] Netherlands vs Nepal - FANCODE - BD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
