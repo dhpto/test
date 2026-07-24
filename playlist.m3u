@@ -1,42 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-07-24 01:47:58 UTC
-
-#EXTINF:-1 tvg-id="10780" tvg-name="[🔴 LIVE NOW] Global Super League - WILLOW - AQ" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] Global Super League - WILLOW - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a98d12b05680b4318a84d331cd836afb:24ac056078ddadfc10440c9222a3f6fe
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eouu9m7ysy/out/v1/eb0980ace8ca4b4e891b9460bf808906/cenc.mpd
-
-#EXTINF:-1 tvg-id="10780" tvg-name="[🔴 LIVE NOW] Global Super League - WILLOW - ALT" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] Global Super League - WILLOW - ALT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a98d12b05680b4318a84d331cd836afb:24ac056078ddadfc10440c9222a3f6fe
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eouu9m7ysy/out/v1/eb0980ace8ca4b4e891b9460bf808906/cenc.mpd
-
-#EXTINF:-1 tvg-id="10780" tvg-name="[🔴 LIVE NOW] Global Super League - FANCODE - IN" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] Global Super League - FANCODE - IN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://in-mc-pdlive.fancode.com/mumbai/4247439_english_hls_6256e199d474694_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="10780" tvg-name="[🔴 LIVE NOW] Global Super League - FANCODE - BD" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] Global Super League - FANCODE - BD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://bd-mc-pdlive.fancode.com/mumbai/4247439_english_hls_6256e199d474694_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="10780" tvg-name="[🔴 LIVE NOW] Global Super League - WILLOW HD" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] Global Super League - WILLOW HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-origin=https://amazon.com
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-id="10780" tvg-name="[🔴 LIVE NOW] Global Super League - LOW SERVER" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] Global Super League - LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://tvsen5.aynascope.net/willowhd/index.m3u8
+# Last Updated: 2026-07-24 05:40:38 UTC
 
 #EXTINF:-1 tvg-id="591" tvg-name="[⚪ Upcoming] Formula 1 - FANCODE - AQ" tvg-logo="nulln" group-title="⚪ Upcoming",[⚪ Upcoming] Formula 1 - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -401,6 +364,43 @@ https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 
+#EXTINF:-1 tvg-id="10780" tvg-name="[⚪ Upcoming] Global Super League - WILLOW - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Global Super League - WILLOW - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a98d12b05680b4318a84d331cd836afb:24ac056078ddadfc10440c9222a3f6fe
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eouu9m7ysy/out/v1/eb0980ace8ca4b4e891b9460bf808906/cenc.mpd
+
+#EXTINF:-1 tvg-id="10780" tvg-name="[⚪ Upcoming] Global Super League - WILLOW - ALT" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Global Super League - WILLOW - ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a98d12b05680b4318a84d331cd836afb:24ac056078ddadfc10440c9222a3f6fe
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eouu9m7ysy/out/v1/eb0980ace8ca4b4e891b9460bf808906/cenc.mpd
+
+#EXTINF:-1 tvg-id="10780" tvg-name="[⚪ Upcoming] Global Super League - FANCODE - IN" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Global Super League - FANCODE - IN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://in-mc-pdlive.fancode.com/mumbai/4247439_english_hls_6256e199d474694_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="10780" tvg-name="[⚪ Upcoming] Global Super League - FANCODE - BD" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Global Super League - FANCODE - BD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bd-mc-pdlive.fancode.com/mumbai/4247439_english_hls_6256e199d474694_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="10780" tvg-name="[⚪ Upcoming] Global Super League - WILLOW HD" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Global Super League - WILLOW HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-origin=https://amazon.com
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-id="10780" tvg-name="[⚪ Upcoming] Global Super League - LOW SERVER" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Global Super League - LOW SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+
 #EXTINF:-1 tvg-id="10794" tvg-name="[⚪ Upcoming] Galle Gallants vs Kandy Royals - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Galle Gallants vs Kandy Royals - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -422,6 +422,91 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
 #EXTINF:-1 tvg-id="10798" tvg-name="[⚪ Upcoming] Welsh Fire vs MI London - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Welsh Fire vs MI London - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10799" tvg-name="[⚪ Upcoming] Milwaukee Brewers vs Colorado Rockies - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Milwaukee Brewers vs Colorado Rockies - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10800" tvg-name="[⚪ Upcoming] Pittsburgh Pirates vs Chicago Cubs - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Pittsburgh Pirates vs Chicago Cubs - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10801" tvg-name="[⚪ Upcoming] Detroit Tigers vs Kansas City Royals - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Detroit Tigers vs Kansas City Royals - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10802" tvg-name="[⚪ Upcoming] Philadelphia Phillies vs New York Yankees - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Philadelphia Phillies vs New York Yankees - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10803" tvg-name="[⚪ Upcoming] Washington Nationals vs Arizona Diamondbacks - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Washington Nationals vs Arizona Diamondbacks - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10804" tvg-name="[⚪ Upcoming] Baltimore Orioles vs Atlanta Braves - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Baltimore Orioles vs Atlanta Braves - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10805" tvg-name="[⚪ Upcoming] New York Mets vs Los Angeles Dodgers - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] New York Mets vs Los Angeles Dodgers - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10806" tvg-name="[⚪ Upcoming] Tampa Bay Rays vs Cleveland Guardians - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Tampa Bay Rays vs Cleveland Guardians - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10807" tvg-name="[⚪ Upcoming] Miami Marlins vs San Diego Padres - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Miami Marlins vs San Diego Padres - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10808" tvg-name="[⚪ Upcoming] Boston Red Sox vs Toronto Blue Jays - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Boston Red Sox vs Toronto Blue Jays - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10809" tvg-name="[⚪ Upcoming] Chicago White Sox vs Houston Astros - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Chicago White Sox vs Houston Astros - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10810" tvg-name="[⚪ Upcoming] Texas Rangers vs Seattle Mariners - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Texas Rangers vs Seattle Mariners - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10811" tvg-name="[⚪ Upcoming] Minnesota Twins vs Athletics - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Minnesota Twins vs Athletics - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10812" tvg-name="[⚪ Upcoming] St. Louis Cardinals vs Cincinnati Reds - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] St. Louis Cardinals vs Cincinnati Reds - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10813" tvg-name="[⚪ Upcoming] San Francisco Giants vs Los Angeles Angels - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] San Francisco Giants vs Los Angeles Angels - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10814" tvg-name="[⚪ Upcoming] FC Barcelona vs CE Europa - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] FC Barcelona vs CE Europa - 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="10815" tvg-name="[⚪ Upcoming] Rosenborg BK vs Manchester United - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Rosenborg BK vs Manchester United - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
